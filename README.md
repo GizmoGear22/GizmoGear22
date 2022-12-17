@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GizmoGear22
 - 👀 I’m interested in learning, reading, minor gaming
 - 🌱 I’m currently learning coding. Specifically javascript. C# and Python are on the to-do list. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on: nothing yet. I'll let you know when I find something worth collaborating on. For now, still learning the basics. 
 - 📫 How to reach me ...
 
 <!---
